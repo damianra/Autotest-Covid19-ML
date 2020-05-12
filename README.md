@@ -11,6 +11,8 @@ fueron ingresados de forma manual (47 filas de datos para entrenamiento), llegan
 <p>Se expone como exportar o guardar el modelo con la librería joblib o pickle.</p>
 
 <p>Archivo: <b>EjemploConsulta.ipynb</b></p>
-<p>Contiene un ejemplo de consulta al proyecto ejecutándose en un servidor de Heroku</p>
+<p>Contiene un ejemplo de consulta al proyecto ejecutándose en un servidor de Heroku<br>
+Github del proyecto de la API: <a href="https://github.com/damianra/AutotestAPI-MachineLearning"></a><br>
+Formulario Online: <a href="https://autotest-ml.herokuapp.com/">Link</a></p>
 <br>
-<p>Desarrollador: Damián Ramirez<a href="https://www.linkedin.com/in/damian-ramirez-677488172">LinkedIn</a></p>
+<p>Desarrollador: Damián Ramirez <a href="https://www.linkedin.com/in/damian-ramirez-677488172">LinkedIn</a></p>
