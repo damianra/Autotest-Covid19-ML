@@ -6,9 +6,11 @@ fueron ingresados de forma manual (47 filas de datos para entrenamiento), llegan
 <br>
 # Contenido del repositorio
 <p>Archivo: <b>AutotestModelSklearn.ipynb:</b></p>
-<p>Obtiene el set de datos armando de forma manual desde Google sheets</p>
-<p>Se crea el modelo KNeighboursClassifier de la librería sklearn y se lo entrena con los datos del autotest y sus clasificaciones</p>
-<p>Se expone como exportar o guardar el modelo con la librería joblib o pickle</p>
+<p>Obtiene el set de datos armando de forma manual desde Google sheets.</p>
+<p>Se crea el modelo KNeighboursClassifier de la librería sklearn y se lo entrena con los datos del autotest y sus clasificaciones.</p>
+<p>Se expone como exportar o guardar el modelo con la librería joblib o pickle.</p>
 
-
-
+<p>Archivo: <b>EjemploConsulta.ipynb</b></p>
+<p>Contiene un ejemplo de consulta al proyecto ejecutándose en un servidor de Heroku</p>
+<br>
+<p>Desarrollador: Damián Ramirez<a href="https://www.linkedin.com/in/damian-ramirez-677488172">LinkedIn</a></p>
